@@ -13,6 +13,8 @@ Folder header: header files.
 
 Folder exam: to put the solutions.
 
+Folder space: the working directory to compile and test the solutions.
+
 ## Usage
 ./main \<netid\> \<first_task_test_cases\> \<second_task_test_cases\> \[any_number\]
 
